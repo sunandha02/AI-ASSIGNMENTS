@@ -4,7 +4,13 @@
 This repository contains solutions for my Artificial Intelligence course assignments.  
 Each assignment is organized in its own folder with code and supporting files.
 
+NAME : BODDULA SUNANDHA
+ID : B210020
+ROLLNO : 04
+CLASS : CSE-C1
+
 ---
+
 
 ##  Contents
 
